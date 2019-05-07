@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DanielKwanUkYoo/j-grace/precache-manifest.3b6f4a0e62ed64d24ffa4e827c8cbb4c.js"
+  "/j-grace/precache-manifest.84a2a4705e552d308b67637366e1b07e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/DanielKwanUkYoo/j-grace/index.html", {
+workbox.routing.registerNavigationRoute("/j-grace/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
