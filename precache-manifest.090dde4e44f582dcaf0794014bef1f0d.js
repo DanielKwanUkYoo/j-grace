@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "7cb2a3cc80e4b06b92ae",
-    "url": "/j-grace/static/css/main.f0ccbc3f.chunk.css"
+    "revision": "c62f7ffc5ae83c9789cf",
+    "url": "/j-grace/static/css/main.41d525f1.chunk.css"
   },
   {
-    "revision": "7cb2a3cc80e4b06b92ae",
-    "url": "/j-grace/static/js/main.96c09df3.chunk.js"
+    "revision": "c62f7ffc5ae83c9789cf",
+    "url": "/j-grace/static/js/main.e7f749dd.chunk.js"
   },
   {
     "revision": "1e07e507eeb12e58410b",
     "url": "/j-grace/static/js/runtime~main.81194213.js"
   },
   {
-    "revision": "5e19aa9acdd587c2fc45",
+    "revision": "7f3e4e835c2a31271b2d",
     "url": "/j-grace/static/css/2.61212169.chunk.css"
   },
   {
-    "revision": "5e19aa9acdd587c2fc45",
-    "url": "/j-grace/static/js/2.b0803f56.chunk.js"
+    "revision": "7f3e4e835c2a31271b2d",
+    "url": "/j-grace/static/js/2.72f9f838.chunk.js"
   },
   {
     "revision": "eca7614c8433284fdb0b2bd1d4193fb9",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/j-grace/static/media/news.61c353a1.jpeg"
   },
   {
-    "revision": "dfc1de18c8bbfe4b0417593adf4670ce",
+    "revision": "51beb67797f0d6f57ba4e2a852a91428",
     "url": "/j-grace/index.html"
   }
 ];
