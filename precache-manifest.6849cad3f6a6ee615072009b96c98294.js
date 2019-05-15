@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "2278a91607e9be1b6ed3",
-    "url": "/j-grace/static/css/main.7156e353.chunk.css"
+    "revision": "05dc3c283841438bb473",
+    "url": "/j-grace/static/css/main.440563b6.chunk.css"
   },
   {
-    "revision": "2278a91607e9be1b6ed3",
+    "revision": "05dc3c283841438bb473",
     "url": "/j-grace/static/js/main.45364332.chunk.js"
   },
   {
@@ -56,8 +56,16 @@ self.__precacheManifest = [
     "url": "/j-grace/static/media/popup.d8e87dab.jpeg"
   },
   {
+    "revision": "82d56f928bb6c19ba4fd076b429a07e4",
+    "url": "/j-grace/static/media/serviceSmall.82d56f92.jpeg"
+  },
+  {
     "revision": "40c931af36928614e7a1294b3deddfc2",
     "url": "/j-grace/static/media/service.40c931af.jpeg"
+  },
+  {
+    "revision": "99c85e98a42e3ca05334c0e571cfef6a",
+    "url": "/j-grace/static/media/thisMonthSmall.99c85e98.jpeg"
   },
   {
     "revision": "8b6db2109da2983549813105a9edb3d9",
@@ -104,7 +112,7 @@ self.__precacheManifest = [
     "url": "/j-grace/static/media/news.61c353a1.jpeg"
   },
   {
-    "revision": "fed85697d7a618dbbea11677cb70d375",
+    "revision": "8a0762dd351d8759d1a65e9a780721fb",
     "url": "/j-grace/index.html"
   }
 ];
