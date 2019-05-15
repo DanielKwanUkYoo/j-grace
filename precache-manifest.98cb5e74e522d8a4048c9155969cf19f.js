@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "05dc3c283841438bb473",
-    "url": "/j-grace/static/css/main.440563b6.chunk.css"
+    "revision": "fd19ccad7d91ee2f40fe",
+    "url": "/j-grace/static/css/main.0d83d824.chunk.css"
   },
   {
-    "revision": "05dc3c283841438bb473",
+    "revision": "fd19ccad7d91ee2f40fe",
     "url": "/j-grace/static/js/main.45364332.chunk.js"
   },
   {
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/j-grace/static/media/news.61c353a1.jpeg"
   },
   {
-    "revision": "8a0762dd351d8759d1a65e9a780721fb",
+    "revision": "6485a68d7a9f3f9e27a2c69476347b26",
     "url": "/j-grace/index.html"
   }
 ];
