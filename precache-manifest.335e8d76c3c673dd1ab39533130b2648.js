@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "59769d95341d962c28d4",
-    "url": "/static/css/main.56047e0e.chunk.css"
+    "revision": "e3611afde71d3b5a516d",
+    "url": "/static/css/main.474d4975.chunk.css"
   },
   {
-    "revision": "59769d95341d962c28d4",
-    "url": "/static/js/main.b398812c.chunk.js"
+    "revision": "e3611afde71d3b5a516d",
+    "url": "/static/js/main.f9d4fea3.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/static/media/mission.0a5c156d.png"
   },
   {
-    "revision": "a48b5e3de34fa1da5dcea6422f9e469a",
-    "url": "/static/media/pastor.a48b5e3d.jpeg"
+    "revision": "429486b4c4465d9b57866a883743e07b",
+    "url": "/static/media/pastorFamily2.429486b4.jpeg"
   },
   {
-    "revision": "7ace1d4f6483a98cefc951a22fc6a834",
-    "url": "/static/media/LastWeeklyUpdate.7ace1d4f.pdf"
+    "revision": "1ab1b1932dc37cc3a0d99fab84097e8d",
+    "url": "/static/media/lastWeeklyUpdate.1ab1b193.png"
   },
   {
     "revision": "0b2f2e9e0d5ca87c865ddfdb1484d4be",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/news.61c353a1.jpeg"
   },
   {
-    "revision": "f8d28b5bac865ac4761be4ff9a6bd9ed",
+    "revision": "89a41bd419965f3c177b2742ffd92d13",
     "url": "/index.html"
   }
 ];
