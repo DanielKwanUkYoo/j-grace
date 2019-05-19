@@ -1,5 +1,5 @@
 {
-  "main.css": "/static/css/main.2e254c80.chunk.css",
+  "main.css": "/static/css/main.7608b575.chunk.css",
   "main.js": "/static/js/main.cdce3fa5.chunk.js",
   "main.js.map": "/static/js/main.cdce3fa5.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -8,10 +8,10 @@
   "static/js/2.061994b9.chunk.js": "/static/js/2.061994b9.chunk.js",
   "static/js/2.061994b9.chunk.js.map": "/static/js/2.061994b9.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.ec8873907355383041cd86819787e7ee.js": "/precache-manifest.ec8873907355383041cd86819787e7ee.js",
+  "precache-manifest.d43502ab3b004d41aad28895dcaa5114.js": "/precache-manifest.d43502ab3b004d41aad28895dcaa5114.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.61212169.chunk.css.map": "/static/css/2.61212169.chunk.css.map",
-  "static/css/main.2e254c80.chunk.css.map": "/static/css/main.2e254c80.chunk.css.map",
+  "static/css/main.7608b575.chunk.css.map": "/static/css/main.7608b575.chunk.css.map",
   "static/media/LastWeeklyUpdate.pdf": "/static/media/LastWeeklyUpdate.7ace1d4f.pdf",
   "static/media/about.css": "/static/media/newFamily.217c4720.jpeg",
   "static/media/carousel.css": "/static/media/carouselTwoSmall.763973aa.jpeg",
@@ -23,5 +23,5 @@
   "static/media/parkingDetails.jpeg": "/static/media/parkingDetails.81e70c45.jpeg",
   "static/media/pastor.jpeg": "/static/media/pastor.a48b5e3d.jpeg",
   "static/media/carousel-popup.css": "/static/media/popup.d8e87dab.jpeg",
-  "static/media/mission.css": "/static/media/thisMonth.8b6db210.jpeg"
+  "static/media/mission.css": "/static/media/thisMonthSmall.99c85e98.jpeg"
 }
