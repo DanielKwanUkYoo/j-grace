@@ -1,19 +1,19 @@
 {
-  "main.css": "/static/css/main.ea24dd83.chunk.css",
-  "main.js": "/static/js/main.ac9ff071.chunk.js",
-  "main.js.map": "/static/js/main.ac9ff071.chunk.js.map",
+  "main.css": "/static/css/main.96ac7484.chunk.css",
+  "main.js": "/static/js/main.6260ce22.chunk.js",
+  "main.js.map": "/static/js/main.6260ce22.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
   "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
   "static/css/2.61212169.chunk.css": "/static/css/2.61212169.chunk.css",
   "static/js/2.e816014c.chunk.js": "/static/js/2.e816014c.chunk.js",
   "static/js/2.e816014c.chunk.js.map": "/static/js/2.e816014c.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.249831146e538ebd5012725608a18941.js": "/precache-manifest.249831146e538ebd5012725608a18941.js",
+  "precache-manifest.8a2f6f2a7fc7f16267f09d6f3c4f2961.js": "/precache-manifest.8a2f6f2a7fc7f16267f09d6f3c4f2961.js",
   "service-worker.js": "/service-worker.js",
   "static/css/2.61212169.chunk.css.map": "/static/css/2.61212169.chunk.css.map",
-  "static/css/main.ea24dd83.chunk.css.map": "/static/css/main.ea24dd83.chunk.css.map",
+  "static/css/main.96ac7484.chunk.css.map": "/static/css/main.96ac7484.chunk.css.map",
   "static/media/LastWeeklyUpdate.pdf": "/static/media/LastWeeklyUpdate.7ace1d4f.pdf",
-  "static/media/about.css": "/static/media/newFamilySmaller.7039fa6e.jpeg",
+  "static/media/about.css": "/static/media/newFamily.217c4720.jpeg",
   "static/media/carousel.css": "/static/media/carouselTwoSmall.763973aa.jpeg",
   "static/media/footerLogo.jpeg": "/static/media/footerLogo.0a8b82ab.jpeg",
   "static/media/location.css": "/static/media/locationSmaller.67d32ef2.png",
@@ -22,5 +22,5 @@
   "static/media/news.css": "/static/media/newsSmaller.e0179ff9.jpeg",
   "static/media/pastor.jpeg": "/static/media/pastor.a48b5e3d.jpeg",
   "static/media/carousel-popup.css": "/static/media/popup.d8e87dab.jpeg",
-  "static/media/mission.css": "/static/media/thisMonthSmall.99c85e98.jpeg"
+  "static/media/mission.css": "/static/media/thisMonth.8b6db210.jpeg"
 }
