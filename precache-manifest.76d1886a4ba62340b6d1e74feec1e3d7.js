@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bd06f28bd9a8fa8323ad",
+    "revision": "82377e7b6e42f96b98b6",
     "url": "/static/css/main.1eadbe24.chunk.css"
   },
   {
-    "revision": "bd06f28bd9a8fa8323ad",
-    "url": "/static/js/main.f0cd1236.chunk.js"
+    "revision": "82377e7b6e42f96b98b6",
+    "url": "/static/js/main.9c622c48.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/pastorFamily2.429486b4.jpeg"
   },
   {
-    "revision": "85e6e19fbd574e59d5b7cda055f0ee7b",
-    "url": "/static/media/lastWeeklyUpdate.85e6e19f.png"
+    "revision": "83f4180868fdcd503e5ec2e64d1fdea4",
+    "url": "/static/media/lastWeeklyUpdate.83f41808.png"
   },
   {
     "revision": "9d494c721bf9826cf9f48780806e8bcf",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/media/service.e5c3a8a4.png"
   },
   {
-    "revision": "46064ed06d5cd641e8f3cd5c7ceca5d4",
+    "revision": "9dfbb8432f63bf429184ae90d4837b53",
     "url": "/index.html"
   }
 ];
