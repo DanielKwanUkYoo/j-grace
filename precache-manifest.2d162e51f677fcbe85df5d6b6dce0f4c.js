@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d7a0492c11e5c2379416",
-    "url": "/static/css/main.c06857ab.chunk.css"
+    "revision": "09f8d95135eda477e2fa",
+    "url": "/static/css/main.6ea84ded.chunk.css"
   },
   {
-    "revision": "d7a0492c11e5c2379416",
-    "url": "/static/js/main.d23b1b97.chunk.js"
+    "revision": "09f8d95135eda477e2fa",
+    "url": "/static/js/main.d14ab46d.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "db8d047b76b09310e038",
+    "revision": "fde9779c573f04bbaa76",
     "url": "/static/css/2.f18622bb.chunk.css"
   },
   {
-    "revision": "db8d047b76b09310e038",
-    "url": "/static/js/2.b45ad151.chunk.js"
+    "revision": "fde9779c573f04bbaa76",
+    "url": "/static/js/2.5e027869.chunk.js"
   },
   {
     "revision": "b634f273c003744bcd746d084fba734e",
@@ -32,16 +32,16 @@ self.__precacheManifest = [
     "url": "/static/media/footerLogo.0a8b82ab.jpeg"
   },
   {
-    "revision": "897d71e68deb266127f5ceac4940ccde",
-    "url": "/static/media/20190908.897d71e6.pdf"
-  },
-  {
     "revision": "0a5c156d3ed76a5e6b5ef889eefc8cb9",
     "url": "/static/media/mission.0a5c156d.png"
   },
   {
     "revision": "429486b4c4465d9b57866a883743e07b",
     "url": "/static/media/pastorFamily2.429486b4.jpeg"
+  },
+  {
+    "revision": "897d71e68deb266127f5ceac4940ccde",
+    "url": "/static/media/20190908.897d71e6.pdf"
   },
   {
     "revision": "3e425fd21f75ffa63ee40fd01748098a",
@@ -100,23 +100,23 @@ self.__precacheManifest = [
     "url": "/static/media/20190901.9c4d8604.png"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/static/media/slick.ced611da.eot"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "f381e6327afcc73fa8ee0aa8e2893a1a",
+    "revision": "91a039eb520a4f448bb0595aff82ebd2",
     "url": "/index.html"
   }
 ];
