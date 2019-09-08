@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "e1f96bc9962bfdfc249c",
-    "url": "/static/css/main.e296bb90.chunk.css"
+    "revision": "858b7fae62a773e75ab2",
+    "url": "/static/css/main.c06857ab.chunk.css"
   },
   {
-    "revision": "e1f96bc9962bfdfc249c",
-    "url": "/static/js/main.8b14a03d.chunk.js"
+    "revision": "858b7fae62a773e75ab2",
+    "url": "/static/js/main.f0b1e1c7.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "4a322daf5bdd207f3823",
+    "revision": "fde9779c573f04bbaa76",
     "url": "/static/css/2.f18622bb.chunk.css"
   },
   {
-    "revision": "4a322daf5bdd207f3823",
-    "url": "/static/js/2.ee82b27c.chunk.js"
+    "revision": "fde9779c573f04bbaa76",
+    "url": "/static/js/2.5e027869.chunk.js"
+  },
+  {
+    "revision": "b634f273c003744bcd746d084fba734e",
+    "url": "/static/media/sermonAudioLogo.b634f273.png"
   },
   {
     "revision": "eca7614c8433284fdb0b2bd1d4193fb9",
@@ -36,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/pastorFamily2.429486b4.jpeg"
   },
   {
-    "revision": "b33196a116021e72836f8db01ff16d33",
-    "url": "/static/media/lastWeeklyUpdate.b33196a1.png"
+    "revision": "897d71e68deb266127f5ceac4940ccde",
+    "url": "/static/media/20190908.897d71e6.pdf"
   },
   {
     "revision": "3e425fd21f75ffa63ee40fd01748098a",
@@ -56,10 +60,6 @@ self.__precacheManifest = [
     "url": "/static/media/carouselTwo.64d55d28.png"
   },
   {
-    "revision": "d8e87dab77495fdacb48a5bf064e3a8a",
-    "url": "/static/media/popup.d8e87dab.jpeg"
-  },
-  {
     "revision": "d161529c75032b912adde086affd525b",
     "url": "/static/media/thisMonth.d161529c.png"
   },
@@ -76,6 +76,30 @@ self.__precacheManifest = [
     "url": "/static/media/news.61c353a1.jpeg"
   },
   {
+    "revision": "40d61a4ef6a4abe6ab09924d3342cb31",
+    "url": "/static/media/lastWeeklyUpdate.40d61a4e.png"
+  },
+  {
+    "revision": "0e1199d545ecbd0b284f7f4d67d87455",
+    "url": "/static/media/sermon.0e1199d5.jpg"
+  },
+  {
+    "revision": "5b3043b14049f1667baca2f5df2eca07",
+    "url": "/static/media/20190811.5b3043b1.png"
+  },
+  {
+    "revision": "3b50a43fd3f8400de5c3c35b8f1f3b46",
+    "url": "/static/media/20190818.3b50a43f.png"
+  },
+  {
+    "revision": "2d41b7e3356ff3a6836f6dde040fd59b",
+    "url": "/static/media/20190825.2d41b7e3.png"
+  },
+  {
+    "revision": "9c4d86048156f17a69b8deff81c2a344",
+    "url": "/static/media/20190901.9c4d8604.png"
+  },
+  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/static/media/slick.ced611da.eot"
   },
@@ -84,15 +108,15 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "a96d19567500eebd8759d6e1a0f58953",
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "11f1fc714ca901125f59cdf05dcbcc9c",
     "url": "/index.html"
   }
 ];
