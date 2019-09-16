@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "09f8d95135eda477e2fa",
-    "url": "/static/css/main.6ea84ded.chunk.css"
+    "revision": "dc081c4d0619c828c92d",
+    "url": "/static/css/main.f5ac16f6.chunk.css"
   },
   {
-    "revision": "09f8d95135eda477e2fa",
-    "url": "/static/js/main.d14ab46d.chunk.js"
+    "revision": "dc081c4d0619c828c92d",
+    "url": "/static/js/main.d358fa5c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "fde9779c573f04bbaa76",
+    "revision": "9af35989dfd9f1be997d",
     "url": "/static/css/2.f18622bb.chunk.css"
   },
   {
-    "revision": "fde9779c573f04bbaa76",
-    "url": "/static/js/2.5e027869.chunk.js"
+    "revision": "9af35989dfd9f1be997d",
+    "url": "/static/js/2.36de056c.chunk.js"
   },
   {
     "revision": "b634f273c003744bcd746d084fba734e",
@@ -40,16 +40,16 @@ self.__precacheManifest = [
     "url": "/static/media/pastorFamily2.429486b4.jpeg"
   },
   {
-    "revision": "897d71e68deb266127f5ceac4940ccde",
-    "url": "/static/media/20190908.897d71e6.pdf"
+    "revision": "f19063f295a413f5a4ac0844e1aad2e3",
+    "url": "/static/media/lastWeeklyUpdate.f19063f2.png"
   },
   {
     "revision": "3e425fd21f75ffa63ee40fd01748098a",
     "url": "/static/media/about.3e425fd2.jpeg"
   },
   {
-    "revision": "321a73ba4c3303200896072879417631",
-    "url": "/static/media/carouselThree.321a73ba.jpg"
+    "revision": "d1923f92ba6bf607bc0ceeaf96e39f63",
+    "url": "/static/media/carouselThree.d1923f92.jpg"
   },
   {
     "revision": "1a3bb30e028c7399a3591e813806c57a",
@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/static/media/news.61c353a1.jpeg"
   },
   {
-    "revision": "40d61a4ef6a4abe6ab09924d3342cb31",
-    "url": "/static/media/lastWeeklyUpdate.40d61a4e.png"
+    "revision": "897d71e68deb266127f5ceac4940ccde",
+    "url": "/static/media/20190908.897d71e6.pdf"
   },
   {
     "revision": "0e1199d545ecbd0b284f7f4d67d87455",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/static/media/20190901.9c4d8604.png"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
+    "revision": "50595528cf01e729cab50443f0e4bd3b",
+    "url": "/static/media/20190915.50595528.png"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
@@ -112,11 +112,15 @@ self.__precacheManifest = [
     "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
+  },
+  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "91a039eb520a4f448bb0595aff82ebd2",
+    "revision": "0fa32785eb7b2d310453ac74dc85b291",
     "url": "/index.html"
   }
 ];
