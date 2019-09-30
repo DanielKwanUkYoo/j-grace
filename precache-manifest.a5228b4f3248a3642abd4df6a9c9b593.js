@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "768d4b41a73dd9d412e1",
-    "url": "/static/css/main.4dbde2b5.chunk.css"
+    "revision": "d68d0c6cf4245d0911de",
+    "url": "/static/css/main.3567ff8c.chunk.css"
   },
   {
-    "revision": "768d4b41a73dd9d412e1",
-    "url": "/static/js/main.56bc80c6.chunk.js"
+    "revision": "d68d0c6cf4245d0911de",
+    "url": "/static/js/main.669e376e.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "834b91c5c46c5ff9b532",
+    "revision": "76556986b84905a70b77",
     "url": "/static/css/2.f18622bb.chunk.css"
   },
   {
-    "revision": "834b91c5c46c5ff9b532",
-    "url": "/static/js/2.d6ada43d.chunk.js"
+    "revision": "76556986b84905a70b77",
+    "url": "/static/js/2.1d4d38dc.chunk.js"
   },
   {
     "revision": "b634f273c003744bcd746d084fba734e",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/pastorFamily2.429486b4.jpeg"
   },
   {
-    "revision": "04eb57b765027e05d303e119738042fc",
-    "url": "/static/media/lastWeeklyUpdate.04eb57b7.png"
+    "revision": "4e8803c1e80815947f4fbf5cd2080e3b",
+    "url": "/static/media/lastWeeklyUpdate.4e8803c1.png"
   },
   {
     "revision": "3e425fd21f75ffa63ee40fd01748098a",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/carouselThree.d1923f92.jpg"
   },
   {
-    "revision": "f7d96439ea79c772d5d4ffb12475b63c",
-    "url": "/static/media/carouselTwo.f7d96439.png"
+    "revision": "6eb967c2772b879ae50e99d1b6c9d598",
+    "url": "/static/media/carouselTwo.6eb967c2.png"
   },
   {
     "revision": "4f246eacdfb032a1bb4bc5852f27ad2b",
@@ -112,6 +112,10 @@ self.__precacheManifest = [
     "url": "/static/media/20190922.13621a73.png"
   },
   {
+    "revision": "91ed0189dd82c719bcdf73c939d582fe",
+    "url": "/static/media/20190929.91ed0189.png"
+  },
+  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/static/media/slick.ced611da.eot"
   },
@@ -128,7 +132,7 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "5338b909fed2fb1ed82d6d78b735a706",
+    "revision": "ee1998bcdf70776136ecd21314f39fac",
     "url": "/index.html"
   }
 ];
