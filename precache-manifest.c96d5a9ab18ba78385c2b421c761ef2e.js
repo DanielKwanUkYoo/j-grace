@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e6a68837cf6c0a2fe2f4",
+    "revision": "2832540b84e2924ba32d",
     "url": "/static/css/main.11feb52d.chunk.css"
   },
   {
-    "revision": "e6a68837cf6c0a2fe2f4",
-    "url": "/static/js/main.25e2ae0b.chunk.js"
+    "revision": "2832540b84e2924ba32d",
+    "url": "/static/js/main.f8360416.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -40,8 +40,8 @@ self.__precacheManifest = [
     "url": "/static/media/pastorFamily2.429486b4.jpeg"
   },
   {
-    "revision": "fd7f4409a3002600c243ca3c7df6c419",
-    "url": "/static/media/lastWeeklyUpdate.fd7f4409.png"
+    "revision": "43d800c53d06e45acc6293f46fc9b4b2",
+    "url": "/static/media/lastWeeklyUpdate.43d800c5.png"
   },
   {
     "revision": "3e425fd21f75ffa63ee40fd01748098a",
@@ -144,10 +144,6 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
   },
@@ -156,7 +152,11 @@ self.__precacheManifest = [
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "aa4bcb07432c362dbe3e047162b8a930",
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ebd07ee6a5fe1846fd0b9acc726dbd29",
     "url": "/index.html"
   }
 ];
