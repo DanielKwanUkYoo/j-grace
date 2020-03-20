@@ -1,31 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "4c6f47d2c73505be6f75",
-    "url": "/static/css/main.acc8f344.chunk.css"
+    "revision": "ce60064639b32da29440",
+    "url": "/static/css/main.b5976033.chunk.css"
   },
   {
-    "revision": "4c6f47d2c73505be6f75",
-    "url": "/static/js/main.8b531349.chunk.js"
+    "revision": "ce60064639b32da29440",
+    "url": "/static/js/main.b7c7c6b0.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "4aab209ad9df94f7754e",
+    "revision": "768c9b6fa561a899e880",
     "url": "/static/css/2.f18622bb.chunk.css"
   },
   {
-    "revision": "4aab209ad9df94f7754e",
-    "url": "/static/js/2.1225a2e2.chunk.js"
-  },
-  {
-    "revision": "b634f273c003744bcd746d084fba734e",
-    "url": "/static/media/sermonAudioLogo.b634f273.png"
+    "revision": "768c9b6fa561a899e880",
+    "url": "/static/js/2.2fabb2b9.chunk.js"
   },
   {
     "revision": "eca7614c8433284fdb0b2bd1d4193fb9",
     "url": "/static/media/logo.eca7614c.png"
+  },
+  {
+    "revision": "b634f273c003744bcd746d084fba734e",
+    "url": "/static/media/sermonAudioLogo.b634f273.png"
   },
   {
     "revision": "0a8b82ab7b8d408682fc39127bf0eb03",
@@ -42,10 +42,6 @@ self.__precacheManifest = [
   {
     "revision": "71e7dda6ab0daff03b7c941c0844b011",
     "url": "/static/media/lastWeeklyUpdate.71e7dda6.png"
-  },
-  {
-    "revision": "3e425fd21f75ffa63ee40fd01748098a",
-    "url": "/static/media/about.3e425fd2.jpeg"
   },
   {
     "revision": "16c196b5e3f09816ac38e57de47699eb",
@@ -66,6 +62,10 @@ self.__precacheManifest = [
   {
     "revision": "59f4e2b534382725acb2864baac5d6e7",
     "url": "/static/media/service.59f4e2b5.png"
+  },
+  {
+    "revision": "3e425fd21f75ffa63ee40fd01748098a",
+    "url": "/static/media/about.3e425fd2.jpeg"
   },
   {
     "revision": "d182b6759dd436fff6e6fbfbef201f7e",
@@ -196,6 +196,10 @@ self.__precacheManifest = [
     "url": "/static/media/20200315.22dd70e2.png"
   },
   {
+    "revision": "3163a84f562cfca121badb6930cc0a7a",
+    "url": "/static/media/covid19.3163a84f.jpg"
+  },
+  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/static/media/slick.ced611da.eot"
   },
@@ -212,7 +216,7 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "5575ebb0dddcf759689b10b83e1da6b6",
+    "revision": "59fe5358cd33aec6f7e353381716af68",
     "url": "/index.html"
   }
 ];
