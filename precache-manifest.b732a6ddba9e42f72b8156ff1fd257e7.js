@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bcb7caf61d80148f9c06",
+    "revision": "fe28e7ed43aa9e4c8576",
     "url": "/static/css/main.6a836486.chunk.css"
   },
   {
-    "revision": "bcb7caf61d80148f9c06",
-    "url": "/static/js/main.8bb3f858.chunk.js"
+    "revision": "fe28e7ed43aa9e4c8576",
+    "url": "/static/js/main.7e3f9be5.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -44,20 +44,20 @@ self.__precacheManifest = [
     "url": "/static/media/lastWeeklyUpdate.71e7dda6.png"
   },
   {
-    "revision": "96284b46b5719a864bbf97ec3872ceb2",
-    "url": "/static/media/carouselOne.96284b46.jpg"
-  },
-  {
     "revision": "442a1f7160d4006de5ac3d454a027698",
     "url": "/static/media/carouselTwo.442a1f71.jpg"
+  },
+  {
+    "revision": "243c09b6efb7c6b1e92363e1fd108a1f",
+    "url": "/static/media/carouselThree.243c09b6.jpg"
   },
   {
     "revision": "0cd50ad864cc2240ece22ecbaee3a0f8",
     "url": "/static/media/carouselFour.0cd50ad8.jpg"
   },
   {
-    "revision": "243c09b6efb7c6b1e92363e1fd108a1f",
-    "url": "/static/media/carouselThree.243c09b6.jpg"
+    "revision": "96284b46b5719a864bbf97ec3872ceb2",
+    "url": "/static/media/carouselOne.96284b46.jpg"
   },
   {
     "revision": "682f2eb79ef9dab308d63b6abde45680",
@@ -388,10 +388,6 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
-  },
-  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/static/media/slick.d41f55a7.ttf"
   },
@@ -400,7 +396,11 @@ self.__precacheManifest = [
     "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "1d1a57c3ccc325093a1c9a96324c3d57",
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "fecb2f7b9522ef71131077fb75b12c66",
     "url": "/index.html"
   }
 ];
