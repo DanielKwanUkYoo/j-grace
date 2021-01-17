@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "bb3b8a168f9918451743",
-    "url": "/static/css/main.e41cff2b.chunk.css"
+    "revision": "830d6d3eb576e1c94ed0",
+    "url": "/static/css/main.77fe4efe.chunk.css"
   },
   {
-    "revision": "bb3b8a168f9918451743",
-    "url": "/static/js/main.aab270f0.chunk.js"
+    "revision": "830d6d3eb576e1c94ed0",
+    "url": "/static/js/main.b48b8c6a.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "ce51dfa0c2eb0dbeb1c8",
+    "revision": "73f3c3f764a7beccb356",
     "url": "/static/css/2.ee501967.chunk.css"
   },
   {
-    "revision": "ce51dfa0c2eb0dbeb1c8",
-    "url": "/static/js/2.4314cfb5.chunk.js"
+    "revision": "73f3c3f764a7beccb356",
+    "url": "/static/js/2.fdc85e58.chunk.js"
   },
   {
     "revision": "eca7614c8433284fdb0b2bd1d4193fb9",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/static/media/lastWeeklyUpdate.71e7dda6.png"
   },
   {
-    "revision": "96284b46b5719a864bbf97ec3872ceb2",
-    "url": "/static/media/carouselOne.96284b46.jpg"
+    "revision": "007823ca183aa862eb50d0c8534762f3",
+    "url": "/static/media/carouselTwo.007823ca.jpg"
   },
   {
-    "revision": "befc0c6ebff87fd08b77ac061548184d",
-    "url": "/static/media/carouselTwo.befc0c6e.jpg"
+    "revision": "96284b46b5719a864bbf97ec3872ceb2",
+    "url": "/static/media/carouselOne.96284b46.jpg"
   },
   {
     "revision": "243c09b6efb7c6b1e92363e1fd108a1f",
@@ -384,6 +384,10 @@ self.__precacheManifest = [
     "url": "/static/media/20210110.2bd4a810.png"
   },
   {
+    "revision": "558caac6914d22cec3f84d66368f751d",
+    "url": "/static/media/20210117.558caac6.png"
+  },
+  {
     "revision": "3163a84f562cfca121badb6930cc0a7a",
     "url": "/static/media/covid19.3163a84f.jpg"
   },
@@ -408,7 +412,7 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "b12d6de4fd5914e230bc0f03650b7347",
+    "revision": "5f1ff1e8751a70f765e1abf4c1bd2902",
     "url": "/index.html"
   }
 ];
