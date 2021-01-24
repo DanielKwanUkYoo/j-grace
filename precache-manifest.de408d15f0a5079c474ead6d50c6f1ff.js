@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "b2b4cef036230832359f",
-    "url": "/static/css/main.e43152be.chunk.css"
+    "revision": "3a4340313aa74a27f86f",
+    "url": "/static/css/main.8fea3bea.chunk.css"
   },
   {
-    "revision": "b2b4cef036230832359f",
-    "url": "/static/js/main.9ae3ed7c.chunk.js"
+    "revision": "3a4340313aa74a27f86f",
+    "url": "/static/js/main.4dc7be4c.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "73f3c3f764a7beccb356",
+    "revision": "d0a4442253c1bc2a63a2",
     "url": "/static/css/2.ee501967.chunk.css"
   },
   {
-    "revision": "73f3c3f764a7beccb356",
-    "url": "/static/js/2.fdc85e58.chunk.js"
+    "revision": "d0a4442253c1bc2a63a2",
+    "url": "/static/js/2.eaff9a6d.chunk.js"
   },
   {
     "revision": "eca7614c8433284fdb0b2bd1d4193fb9",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/static/media/carouselOne.96284b46.jpg"
   },
   {
-    "revision": "243c09b6efb7c6b1e92363e1fd108a1f",
-    "url": "/static/media/carouselThree.243c09b6.jpg"
+    "revision": "9f811d42f5a8da3aa2623c0bb164cb49",
+    "url": "/static/media/carouselTwo.9f811d42.jpg"
   },
   {
-    "revision": "007823ca183aa862eb50d0c8534762f3",
-    "url": "/static/media/carouselTwo.007823ca.jpg"
+    "revision": "243c09b6efb7c6b1e92363e1fd108a1f",
+    "url": "/static/media/carouselThree.243c09b6.jpg"
   },
   {
     "revision": "05e39dc98feba79b1846beed3633603b",
@@ -388,6 +388,10 @@ self.__precacheManifest = [
     "url": "/static/media/20210117.558caac6.png"
   },
   {
+    "revision": "0e4423500949a1b9b2d7fc72882018d8",
+    "url": "/static/media/20210124.0e442350.png"
+  },
+  {
     "revision": "3163a84f562cfca121badb6930cc0a7a",
     "url": "/static/media/covid19.3163a84f.jpg"
   },
@@ -400,19 +404,19 @@ self.__precacheManifest = [
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "4530713874d79ca33114b58b945a21bf",
+    "revision": "2649b06609c7a7ac499793e98773c5e1",
     "url": "/index.html"
   }
 ];
