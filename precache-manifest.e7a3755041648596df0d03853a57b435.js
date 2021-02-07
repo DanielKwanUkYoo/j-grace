@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d4ea9df13ede75eef615",
-    "url": "/static/css/main.c879b5b1.chunk.css"
+    "revision": "a8d136d9f53dec325e9e",
+    "url": "/static/css/main.3071675c.chunk.css"
   },
   {
-    "revision": "d4ea9df13ede75eef615",
-    "url": "/static/js/main.2384f819.chunk.js"
+    "revision": "a8d136d9f53dec325e9e",
+    "url": "/static/js/main.2311bcd4.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "104c668005dbb8efa1b2",
+    "revision": "56ef2ef5aa0ddd5ac706",
     "url": "/static/css/2.ee501967.chunk.css"
   },
   {
-    "revision": "104c668005dbb8efa1b2",
-    "url": "/static/js/2.175c8573.chunk.js"
+    "revision": "56ef2ef5aa0ddd5ac706",
+    "url": "/static/js/2.0849de33.chunk.js"
   },
   {
     "revision": "eca7614c8433284fdb0b2bd1d4193fb9",
@@ -44,16 +44,16 @@ self.__precacheManifest = [
     "url": "/static/media/lastWeeklyUpdate.71e7dda6.png"
   },
   {
-    "revision": "243c09b6efb7c6b1e92363e1fd108a1f",
-    "url": "/static/media/carouselThree.243c09b6.jpg"
-  },
-  {
-    "revision": "78abb828ed530ae96974529ad692defe",
-    "url": "/static/media/carouselTwo.78abb828.jpg"
-  },
-  {
     "revision": "96284b46b5719a864bbf97ec3872ceb2",
     "url": "/static/media/carouselOne.96284b46.jpg"
+  },
+  {
+    "revision": "cb6c62625ce4f33d1c83ab6d1ad00b54",
+    "url": "/static/media/carouselTwo.cb6c6262.jpg"
+  },
+  {
+    "revision": "243c09b6efb7c6b1e92363e1fd108a1f",
+    "url": "/static/media/carouselThree.243c09b6.jpg"
   },
   {
     "revision": "05e39dc98feba79b1846beed3633603b",
@@ -396,6 +396,10 @@ self.__precacheManifest = [
     "url": "/static/media/20210131.75363b7a.png"
   },
   {
+    "revision": "821786c9d13c2dc61f4cfcc4bd96f445",
+    "url": "/static/media/20210207.821786c9.png"
+  },
+  {
     "revision": "3163a84f562cfca121badb6930cc0a7a",
     "url": "/static/media/covid19.3163a84f.jpg"
   },
@@ -412,15 +416,15 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "3fb26ca82e80704d243fba15336ead95",
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/static/media/slick.ced611da.eot"
+  },
+  {
+    "revision": "d0577fb94fd3a0699a12fc7211c8cc58",
     "url": "/index.html"
   }
 ];
