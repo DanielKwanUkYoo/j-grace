@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/static/media/lastWeeklyUpdate.71e7dda6.png"
   },
   {
-    "revision": "96284b46b5719a864bbf97ec3872ceb2",
-    "url": "/static/media/carouselOne.96284b46.jpg"
-  },
-  {
     "revision": "748f758335429dc47e266c4a91c1722a",
     "url": "/static/media/carouselTwo.748f7583.jpg"
+  },
+  {
+    "revision": "96284b46b5719a864bbf97ec3872ceb2",
+    "url": "/static/media/carouselOne.96284b46.jpg"
   },
   {
     "revision": "243c09b6efb7c6b1e92363e1fd108a1f",
@@ -420,20 +420,20 @@ self.__precacheManifest = [
     "url": "/static/media/EMPS.0222b877.jpg"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
-  },
-  {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/static/media/slick.ced611da.eot"
   },
   {
     "revision": "ef5fb49e80b433bc065bc45d8dd7b916",
