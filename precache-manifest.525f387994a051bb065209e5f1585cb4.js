@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "8d8227bf6ddddc4941dc",
-    "url": "/static/css/main.93945fd3.chunk.css"
+    "revision": "f3f7f22a27a5969bd167",
+    "url": "/static/css/main.2b843055.chunk.css"
   },
   {
-    "revision": "8d8227bf6ddddc4941dc",
-    "url": "/static/js/main.d61df045.chunk.js"
+    "revision": "f3f7f22a27a5969bd167",
+    "url": "/static/js/main.6156cb66.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "7e27805c17cbbaca00c4",
+    "revision": "6d9a753858da6838979b",
     "url": "/static/css/2.659ded4b.chunk.css"
   },
   {
-    "revision": "7e27805c17cbbaca00c4",
-    "url": "/static/js/2.f8076d27.chunk.js"
+    "revision": "6d9a753858da6838979b",
+    "url": "/static/js/2.8fe917c6.chunk.js"
   },
   {
     "revision": "b634f273c003744bcd746d084fba734e",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/static/media/lastWeeklyUpdate.71e7dda6.png"
   },
   {
-    "revision": "fc2e0d50f7a524968a29bdde53789c91",
-    "url": "/static/media/carouselTwo.fc2e0d50.jpg"
-  },
-  {
     "revision": "96284b46b5719a864bbf97ec3872ceb2",
     "url": "/static/media/carouselOne.96284b46.jpg"
+  },
+  {
+    "revision": "0ae5ccae38d3c4c93b9beaf318a1b379",
+    "url": "/static/media/carouselTwo.0ae5ccae.jpg"
   },
   {
     "revision": "f7b56b86553a987b2903e6476d7ded19",
@@ -428,6 +428,10 @@ self.__precacheManifest = [
     "url": "/static/media/20210328.f59ae22c.png"
   },
   {
+    "revision": "d9b58fece3d8ceb9ad5ef2e6c19acef2",
+    "url": "/static/media/20210404.d9b58fec.png"
+  },
+  {
     "revision": "3163a84f562cfca121badb6930cc0a7a",
     "url": "/static/media/covid19.3163a84f.jpg"
   },
@@ -440,19 +444,19 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "125c83ddcd86a55baafc36fc6781b54c",
+    "revision": "c11bc38c5cbce902b27330fb389cf731",
     "url": "/index.html"
   }
 ];
