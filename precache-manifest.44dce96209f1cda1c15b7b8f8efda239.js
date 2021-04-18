@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "2ad7105f968d8a4a0025",
-    "url": "/static/css/main.dce8f611.chunk.css"
+    "revision": "1806a6ae0fb1b32f2909",
+    "url": "/static/css/main.7b5c6af7.chunk.css"
   },
   {
-    "revision": "2ad7105f968d8a4a0025",
-    "url": "/static/js/main.f431943a.chunk.js"
+    "revision": "1806a6ae0fb1b32f2909",
+    "url": "/static/js/main.88b5d3ce.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "418c803c08d3f8b0d084",
+    "revision": "6c6c72eeda54e89ab52e",
     "url": "/static/css/2.659ded4b.chunk.css"
   },
   {
-    "revision": "418c803c08d3f8b0d084",
-    "url": "/static/js/2.30bdf8e2.chunk.js"
+    "revision": "6c6c72eeda54e89ab52e",
+    "url": "/static/js/2.6b4b1bf0.chunk.js"
   },
   {
     "revision": "b634f273c003744bcd746d084fba734e",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/lastWeeklyUpdate.71e7dda6.png"
   },
   {
-    "revision": "c408c030c612d102e815bb8fa41d5952",
-    "url": "/static/media/carouselTwo.c408c030.jpg"
+    "revision": "69eea66b9637584a82547c1fe9d4bd5a",
+    "url": "/static/media/carouselTwo.69eea66b.jpg"
   },
   {
     "revision": "96284b46b5719a864bbf97ec3872ceb2",
@@ -436,16 +436,16 @@ self.__precacheManifest = [
     "url": "/static/media/20210411.a9bf5144.png"
   },
   {
+    "revision": "e643ffd12f6ddd2c28e389f3e10bd645",
+    "url": "/static/media/20210418.e643ffd1.png"
+  },
+  {
     "revision": "3163a84f562cfca121badb6930cc0a7a",
     "url": "/static/media/covid19.3163a84f.jpg"
   },
   {
     "revision": "0222b877ed36a1a238982c7e70f0114d",
     "url": "/static/media/EMPS.0222b877.jpg"
-  },
-  {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
@@ -456,11 +456,15 @@ self.__precacheManifest = [
     "url": "/static/media/slick.b7c9e1e4.woff"
   },
   {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/static/media/slick.ced611da.eot"
+  },
+  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "30ca88b2eafa12f32d10e21307476ef7",
+    "revision": "9d523ec6a09f37993655e6ce0b31e603",
     "url": "/index.html"
   }
 ];
