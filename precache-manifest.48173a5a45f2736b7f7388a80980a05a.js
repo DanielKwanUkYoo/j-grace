@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "0ee62819dec0416997e5",
+    "revision": "fbb5e15a6cea39d00739",
     "url": "/static/css/main.60c2a53f.chunk.css"
   },
   {
-    "revision": "0ee62819dec0416997e5",
-    "url": "/static/js/main.bacedb41.chunk.js"
+    "revision": "fbb5e15a6cea39d00739",
+    "url": "/static/js/main.596e5029.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "68f61cfb56b9f5014457",
+    "revision": "b62cac59b3715bb86bd8",
     "url": "/static/css/2.ee501967.chunk.css"
   },
   {
-    "revision": "68f61cfb56b9f5014457",
-    "url": "/static/js/2.4219b1e3.chunk.js"
+    "revision": "b62cac59b3715bb86bd8",
+    "url": "/static/js/2.5507d670.chunk.js"
   },
   {
     "revision": "b634f273c003744bcd746d084fba734e",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/static/media/carouselOne.96284b46.jpg"
   },
   {
-    "revision": "05e39dc98feba79b1846beed3633603b",
-    "url": "/static/media/carouselFour.05e39dc9.png"
-  },
-  {
     "revision": "f7b56b86553a987b2903e6476d7ded19",
     "url": "/static/media/carouselThree.f7b56b86.png"
+  },
+  {
+    "revision": "05e39dc98feba79b1846beed3633603b",
+    "url": "/static/media/carouselFour.05e39dc9.png"
   },
   {
     "revision": "682f2eb79ef9dab308d63b6abde45680",
@@ -548,6 +548,10 @@ self.__precacheManifest = [
     "url": "/static/media/20211031.e0ff665c.png"
   },
   {
+    "revision": "7a35ab17f93c40297cfea931143004de",
+    "url": "/static/media/20211107.7a35ab17.png"
+  },
+  {
     "revision": "3163a84f562cfca121badb6930cc0a7a",
     "url": "/static/media/covid19.3163a84f.jpg"
   },
@@ -560,6 +564,10 @@ self.__precacheManifest = [
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
+  },
+  {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
   },
@@ -568,11 +576,7 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
-  },
-  {
-    "revision": "afe3ff7ce0590761ad77a09f9959e734",
+    "revision": "403613df907d8ed355d490e9155f8f9b",
     "url": "/index.html"
   }
 ];
