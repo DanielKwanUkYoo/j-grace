@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "ba4a6261338012923233",
-    "url": "/static/css/main.c00f06a4.chunk.css"
+    "revision": "2b7d3c3a4b8746521896",
+    "url": "/static/css/main.6986cd0e.chunk.css"
   },
   {
-    "revision": "ba4a6261338012923233",
-    "url": "/static/js/main.bcc34b59.chunk.js"
+    "revision": "2b7d3c3a4b8746521896",
+    "url": "/static/js/main.210bba2e.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "6f8683b03d288418ddf6",
+    "revision": "5ad4916b4ce9e6bb75f8",
     "url": "/static/css/2.ee501967.chunk.css"
   },
   {
-    "revision": "6f8683b03d288418ddf6",
-    "url": "/static/js/2.15d6d407.chunk.js"
+    "revision": "5ad4916b4ce9e6bb75f8",
+    "url": "/static/js/2.130e0b4d.chunk.js"
   },
   {
     "revision": "b634f273c003744bcd746d084fba734e",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/static/media/carouselOne.96284b46.jpg"
   },
   {
-    "revision": "9690393108e3ac7368aa4d94b10bee87",
-    "url": "/static/media/carouselTwo.96903931.jpg"
+    "revision": "bb58d1d04a0a85b6db5ba98d2c43d98b",
+    "url": "/static/media/carouselTwo.bb58d1d0.jpg"
   },
   {
     "revision": "f7b56b86553a987b2903e6476d7ded19",
@@ -584,20 +584,16 @@ self.__precacheManifest = [
     "url": "/static/media/20211231.e38cb2fa.png"
   },
   {
+    "revision": "95bbf096e58999ecc849d3c961ba7acd",
+    "url": "/static/media/20220102.95bbf096.png"
+  },
+  {
     "revision": "3163a84f562cfca121badb6930cc0a7a",
     "url": "/static/media/covid19.3163a84f.jpg"
   },
   {
     "revision": "0222b877ed36a1a238982c7e70f0114d",
     "url": "/static/media/EMPS.0222b877.jpg"
-  },
-  {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/static/media/slick.b7c9e1e4.woff"
-  },
-  {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "ced611daf7709cc778da928fec876475",
@@ -608,7 +604,15 @@ self.__precacheManifest = [
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "e5bfb5d1490cb71fbd0b44dbc7924210",
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "2ec1324db015a9bacd11365bd0f1a672",
     "url": "/index.html"
   }
 ];
