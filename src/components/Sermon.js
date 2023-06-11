@@ -13,7 +13,7 @@ export default class Sermon extends Component {
     videoAttachmentExist: false,
     videoAttachmentUrl: "",
     confirmState: "",
-    selectedYear: "2022",
+    selectedYear: "2023",
   };
 
   setDate = (date) => {
@@ -92,10 +92,21 @@ export default class Sermon extends Component {
             <div className="sermon-tab-year-container">
               <span
                 className="sermon-tab-year"
+                onClick={() => this.setSelectedYear("2023")}
+                style={
+                  this.state.selectedYear === "2023"
+                    ? { borderBottom: "5px solid #E67E22" }
+                    : {}
+                }
+              >
+                2023
+              </span>
+              <span
+                className="sermon-tab-year"
                 onClick={() => this.setSelectedYear("2022")}
                 style={
                   this.state.selectedYear === "2022"
-                    ? { borderLeft: "5px solid #E67E22" }
+                    ? { borderBottom: "5px solid #E67E22" }
                     : {}
                 }
               >
@@ -106,7 +117,7 @@ export default class Sermon extends Component {
                 onClick={() => this.setSelectedYear("2021")}
                 style={
                   this.state.selectedYear === "2021"
-                    ? { borderLeft: "5px solid #E67E22" }
+                    ? { borderBottom: "5px solid #E67E22" }
                     : {}
                 }
               >
@@ -117,7 +128,7 @@ export default class Sermon extends Component {
                 onClick={() => this.setSelectedYear("2020")}
                 style={
                   this.state.selectedYear === "2020"
-                    ? { borderLeft: "5px solid #E67E22" }
+                    ? { borderBottom: "5px solid #E67E22" }
                     : {}
                 }
               >
@@ -128,7 +139,7 @@ export default class Sermon extends Component {
                 onClick={() => this.setSelectedYear("2019")}
                 style={
                   this.state.selectedYear === "2019"
-                    ? { borderLeft: "5px solid #E67E22" }
+                    ? { borderBottom: "5px solid #E67E22" }
                     : {}
                 }
               >
@@ -140,8 +151,354 @@ export default class Sermon extends Component {
           <table className="sermon-lists">
             <tbody>
               <tr>
+                {this.state.selectedYear === "2023" && (
+                  <>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230611");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230611")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230604");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230604")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230528");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230528")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230521");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230521")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230514");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230514")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230507");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230507")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230430");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230430")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230423");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230423")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230416");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230416")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230409");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230409")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230402");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230402")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230326");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230326")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230319");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230319")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230312");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230312")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230305");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230305")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230226");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230226")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230219");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230219")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230212");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230212")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230205");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230205")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230129");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230129")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230122");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230122")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230115");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230115")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230108");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230108")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230101");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230101")})`,
+                      }}
+                    ></th>
+                  </>
+                )}
                 {this.state.selectedYear === "2022" && (
                   <>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221218");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221218")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221211");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221211")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221204");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221204")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221127");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221127")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221120");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221120")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221113");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221113")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221106");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221106")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221030");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221030")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221023");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221023")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221016");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221016")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20221002");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20221002")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20220925");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20220925")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20220918");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20220918")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20220911");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20220911")})`,
+                      }}
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
