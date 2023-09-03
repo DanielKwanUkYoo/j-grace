@@ -178,6 +178,18 @@ export default class SermonVideo extends Component {
       20230528: "dY0EwO0OV7I",
       20230604: "WYzdc_4BzOs",
       20230611: "rWPoruIpD_8",
+      20230618: "q9k1KH1Ncqs",
+      20230625: "TDseRTfMJ84",
+      20230702: "E5ZZyNL1JBY",
+      20230709: "SOnPtVVV5pE",
+      20230716: "pvcGaFiFKgk",
+      20230723: "zv--ent_3Cw",
+      20230806: "JX6mxZdcxbk",
+      20230813: "yiOBVuoV1ac",
+      20230820: "B_7T-EimwVQ",
+      20230827: "MzkV8fcNOcI",
+      20230903: "XnOhegVNjc4",
+
     };
 
     var date = this.props.clickedDate;

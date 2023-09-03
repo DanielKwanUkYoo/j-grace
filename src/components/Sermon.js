@@ -156,6 +156,105 @@ export default class Sermon extends Component {
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
+                        this.setDate("20230903");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230903")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230827");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230827")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230820");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230820")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230813");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230813")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230806");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230806")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230723");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230723")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230716");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230716")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230709");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230709")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230702");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230702")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230625");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230625")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20230618");
+                      }}
+                      style={{
+                        backgroundImage: `url(${imagePath("20230618")})`,
+                      }}
+                    ></th>
+                    <th
+                      onClick={() => {
+                        this.confirmVideoClicked();
                         this.setDate("20230611");
                       }}
                       style={{
