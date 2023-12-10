@@ -136,21 +136,22 @@ export default class Mission extends Component {
               <p>이번달 암송구절</p>
             </div>
             <div className="this-month-scripture">
-              <b>요한계시록 3:20</b>
+              <b>요한복음 1장 14절</b>
               <p>
-                볼지어다 내가 문 밖에 서서 두드리노니 누구든지 내 음성을 듣고 문을 열면 내가 그에게로 들어가 그와 더불어 먹고 그는 나와 더불어 먹으리라
+                말씀이 육신이 되어 우리 가운데 거하시매 우리가 그의 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라
               </p>
             </div>
             <div className="this-month-hymn">
               <b>이번주 찬양</b>
               <p>
-                죄에서 자유를 얻게 함은
+                슬픈 마음 있는 사람
                 <br />
                 나의 죄를 씻기는
                 <br />
-                주는 완전합니다
+                내가 주인 삼은
                 <br />
-                십자가
+                예수 열방의 소망
+
               </p>
             </div>
           </div>
