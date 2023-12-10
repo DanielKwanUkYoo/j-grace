@@ -80,23 +80,22 @@ export default class Carousel extends Component {
           <div className="carousel-three-image">
             <div className="carousel-three">
               <div className="carousel-three-container">
-                <div className="carousel-three-title">금요 지성소 기도회</div>
+                <div className="carousel-three-title">대강절 주일</div>
                 <div className="carousel-three-subtitle">
                   <span>
                     <br />
-                    "주님과의 동행{" "}
-                    <br className="carousel-three-subtitle-breakpoint" />
-                    그리고 인도하심"
+                    그가 오신 이유
+                    {/* <br className="carousel-three-subtitle-breakpoint" /> */}
                   </span>
                 </div>
-                <ul>
+                {/* <ul>
                   <li>
                     <b>일시</b>: 매주 금요일 8PM
                   </li>
                   <li>
                     <b>장소</b>: 주은혜교회 기도의 집[HOPE]
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </div>
           </div>
