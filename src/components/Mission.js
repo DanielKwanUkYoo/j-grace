@@ -144,13 +144,13 @@ export default class Mission extends Component {
             <div className="this-month-hymn">
               <b>이번주 찬양</b>
               <p>
-                슬픈 마음 있는 사람
+                목마른 내 영혼
                 <br />
-                나의 죄를 씻기는
+                목마른 사슴
                 <br />
-                내가 주인 삼은
+                내 평생 사는동안
                 <br />
-                예수 열방의 소망
+                우물가의 여인처럼
 
               </p>
             </div>
