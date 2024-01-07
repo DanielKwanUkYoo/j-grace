@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "bf396dbafb0e859330db",
-    "url": "/static/css/main.921fcdaa.chunk.css"
+    "revision": "eac1b2c092efa0be4013",
+    "url": "/static/css/main.cac605d6.chunk.css"
   },
   {
-    "revision": "bf396dbafb0e859330db",
-    "url": "/static/js/main.5c5c5143.chunk.js"
+    "revision": "eac1b2c092efa0be4013",
+    "url": "/static/js/main.c72e2cad.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "cac0bbd26fd14040637b",
+    "revision": "94431b276afcc5d0e579",
     "url": "/static/css/2.659ded4b.chunk.css"
   },
   {
-    "revision": "cac0bbd26fd14040637b",
-    "url": "/static/js/2.ee65867b.chunk.js"
+    "revision": "94431b276afcc5d0e579",
+    "url": "/static/js/2.6bb93e32.chunk.js"
   },
   {
     "revision": "eca7614c8433284fdb0b2bd1d4193fb9",
@@ -26,6 +26,10 @@ self.__precacheManifest = [
   {
     "revision": "0a8b82ab7b8d408682fc39127bf0eb03",
     "url": "/static/media/footerLogo.0a8b82ab.jpeg"
+  },
+  {
+    "revision": "2b3e017f50013632fd53ebd3aaa9d937",
+    "url": "/static/media/sermon.2b3e017f.jpg"
   },
   {
     "revision": "d216f8eafdb3a21c629ae0d99f57c0bc",
@@ -40,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/lastWeeklyUpdate.71e7dda6.png"
   },
   {
-    "revision": "32d084362cbfdf5229fe63b86ac327c4",
-    "url": "/static/media/carouselTwo.32d08436.jpg"
+    "revision": "d8917ee20634128231f7048cfa2f9519",
+    "url": "/static/media/carouselTwo.d8917ee2.jpg"
   },
   {
     "revision": "96284b46b5719a864bbf97ec3872ceb2",
@@ -80,10 +84,6 @@ self.__precacheManifest = [
     "url": "/static/media/news.720f3bcc.jpeg"
   },
   {
-    "revision": "2b3e017f50013632fd53ebd3aaa9d937",
-    "url": "/static/media/sermon.2b3e017f.jpg"
-  },
-  {
     "revision": "3163a84f562cfca121badb6930cc0a7a",
     "url": "/static/media/covid19.3163a84f.jpg"
   },
@@ -100,15 +100,15 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/static/media/slick.f97e3bbf.svg"
-  },
-  {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "5981802574a893983d03f822bf1042ef",
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "57dd199ea84f3c1c64e525aacbacff4c",
     "url": "/index.html"
   }
 ];
