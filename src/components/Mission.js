@@ -136,21 +136,22 @@ export default class Mission extends Component {
               <p>이번달 암송구절</p>
             </div>
             <div className="this-month-scripture">
-              <b>요한복음 1장 14절</b>
+              <b>이사야 12장 2절</b>
               <p>
-                말씀이 육신이 되어 우리 가운데 거하시매 우리가 그의 영광을 보니 아버지의 독생자의 영광이요 은혜와 진리가 충만하더라
+                보라 하나님은 나의 구원이시라 내가 신뢰하고 두려움이 없으리니 주 여호와는 나의 힘이시며 나의 노래시며 나의 구원이심이라
+                그러므로 너희가 기쁨으로 구원의 우물들에서 물을 길으리로다
               </p>
             </div>
             <div className="this-month-hymn">
               <b>이번주 찬양</b>
               <p>
-                내가 매일 기쁘게
+                참 아름다워라
                 <br />
-                주의 은혜라
+                그 사랑
                 <br />
-                나 무엇과도 주님을 바꾸지 않으리
+                주님만 주님만 주님만 사랑하리
                 <br />
-                God will make a way
+                아버지 사랑합니다
 
               </p>
             </div>
