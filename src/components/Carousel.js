@@ -55,16 +55,16 @@ export default class Carousel extends Component {
           <div className="carousel-two-image">
             <div className="carousel-two">
               <div className="carousel-two-title">
-                <p className="carousel-two-title-top">1/14 주일예배</p>
+                <p className="carousel-two-title-top">1/21 주일예배</p>
                 <p>
                   구원의 우물들
 
                   <br />
-                  구원이 회복된 아들의 누림
+                  오천명을 살리는 우물
                 </p>
               </div>
               <div className="carousel-two-subtitle">
-                <span>요한복음 5장 19-47절</span>
+                <span>요한복음 6장 1-15절</span>
                 <br />
                 <span
                   style={{ borderLeft: "4px solid #fff", paddingLeft: "0.5em" }}
@@ -77,7 +77,7 @@ export default class Carousel extends Component {
             </div>
           </div>
 
-          <div className="carousel-three-image">
+          {/* <div className="carousel-three-image">
             <div className="carousel-three">
               <div className="carousel-three-container">
                 <div className="carousel-three-title">대강절 주일</div>
@@ -85,20 +85,20 @@ export default class Carousel extends Component {
                   <span>
                     <br />
                     그가 오신 이유
-                    {/* <br className="carousel-three-subtitle-breakpoint" /> */}
+                    <br className="carousel-three-subtitle-breakpoint" />
                   </span>
                 </div>
-                {/* <ul>
+                <ul>
                   <li>
                     <b>일시</b>: 매주 금요일 8PM
                   </li>
                   <li>
                     <b>장소</b>: 주은혜교회 기도의 집[HOPE]
                   </li>
-                </ul> */}
+                </ul>
               </div>
             </div>
-          </div>
+          </div> */}
 
           {/* <div className="carousel-three-image">
             <div className="carousel-three">

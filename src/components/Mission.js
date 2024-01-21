@@ -145,13 +145,13 @@ export default class Mission extends Component {
             <div className="this-month-hymn">
               <b>이번주 찬양</b>
               <p>
-                참 아름다워라
+                주의 음성을 내가 들으니
                 <br />
-                그 사랑
+                주님의 영광 나타나셨네
                 <br />
-                주님만 주님만 주님만 사랑하리
+                생명 주께 있네
                 <br />
-                아버지 사랑합니다
+                원하고 바라고 기도합니다
 
               </p>
             </div>
