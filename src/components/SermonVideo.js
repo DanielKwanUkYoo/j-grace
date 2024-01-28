@@ -207,7 +207,8 @@ export default class SermonVideo extends Component {
       20231231: "t_7xuPouhwE",
       20240107: "XQYbw2x74Ns",
       20240114: "ymguCikPCFc",
-      20240121: "vHBCpjjcAtI"
+      20240121: "vHBCpjjcAtI",
+      20240128: "xUNUs3Dnvh8"
     };
 
     var date = this.props.clickedDate;
