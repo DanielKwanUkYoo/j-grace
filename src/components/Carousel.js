@@ -55,21 +55,21 @@ export default class Carousel extends Component {
           <div className="carousel-two-image">
             <div className="carousel-two">
               <div className="carousel-two-title">
-                <p className="carousel-two-title-top">1/28 주일예배</p>
+                <p className="carousel-two-title-top">2/11 주일예배</p>
                 <p>
                   {/* 구원의 우물들 */}
 
                   {/* <br /> */}
-                  정답은 순종입니다
+                  예수살렘의 평화
                 </p>
               </div>
               <div className="carousel-two-subtitle">
-                <span>마태복음 25장 1-13절</span>
+                <span>누가복음 19장 41절-44절</span>
                 <br />
                 <span
                   style={{ borderLeft: "4px solid #fff", paddingLeft: "0.5em" }}
                 >
-                  김갈렙 선교사
+                  임 이스마엘 선교사
                 </span>
                 <br />
                 <a href="/#/sermon">예배영상 보기/듣기</a>
