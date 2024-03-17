@@ -39,6 +39,42 @@ export default class Sermon extends Component {
                 <th
                     onClick={() => {
                         this.confirmVideoClicked();
+                        this.setDate("20240317");
+                    }}
+                    style={{
+                        backgroundImage: `url(${imagePath("20240317")})`,
+                    }}
+                ></th>
+                <th
+                    onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20240310");
+                    }}
+                    style={{
+                        backgroundImage: `url(${imagePath("20240310")})`,
+                    }}
+                ></th>
+                <th
+                    onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20240303");
+                    }}
+                    style={{
+                        backgroundImage: `url(${imagePath("20240303")})`,
+                    }}
+                ></th>
+                <th
+                    onClick={() => {
+                        this.confirmVideoClicked();
+                        this.setDate("20240225");
+                    }}
+                    style={{
+                        backgroundImage: `url(${imagePath("20240225")})`,
+                    }}
+                ></th>
+                <th
+                    onClick={() => {
+                        this.confirmVideoClicked();
                         this.setDate("20240218");
                     }}
                     style={{
