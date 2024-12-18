@@ -94,7 +94,6 @@ export default class Mission extends Component {
                       </a>
                     </b>
                   </li>
-                  {/* <li>Burnaby Hall</li> */}
                   <li>#203 - 931 Brunette Ave | Coquitlam BC</li>
                 </ul>
               </div>
@@ -136,25 +135,26 @@ export default class Mission extends Component {
               <p>이번달 암송구절</p>
             </div>
             <div className="this-month-scripture">
-              <b>이사야 35장 3절 10절</b>
+              <b>요한복음 14장 34-35절</b>
               <p>
-                너희는 약한 손을 강하게 하며 떨리는 무릎을 굳게 하며 여호와의 속량함을 받은 자들이 돌아오되 노래하며 시온에 이르러 그들의 머리 위에 영영한 희락을 띠고 기쁨과 즐거움을 얻으리니 슬픔과 탄식이 사라지리로다
+                새 계명을 너희에게 주노니 서로 사랑하라 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라 너희가 서로 사랑하면 이로써 모든 사람이 너희가
+                내 제자인 줄 알리라
               </p>
             </div>
-            <div className="this-month-hymn">
+            {/* <div className="this-month-hymn">
               <b>이번주 찬양</b>
               <p>
-                빈들의 마른풀 같이
+                평안을 너에게 주노라
                 <br />
-                꽃들도
+                주의 거룩하심 생각할때
                 <br />
-                사랑해요 목소리 높여
+                주님 말씀하시면
                 <br />
-                오직 믿음으로
+                충만
 
 
               </p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
