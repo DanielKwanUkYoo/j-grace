@@ -59,17 +59,17 @@ export default class Mission extends Component {
           <div className="service-container">
             <div className="service-time-container" data-aos="fade-down">
               <p className="service-type">
-                <type>1부 주일 예배</type>
-                <span>매주 일요일 오전 9시</span>
+                <type>한국어 정창년 예배</type>
+                <span>매주 일요일 오전 10시</span>
               </p>
               <p className="service-type">
-                <type>2부 주일 예배</type>
-                <span>매주 일요일 오전 11시</span>
+                <type>영어권 주일 예배</type>
+                <span>매주 일요일 오후 12시</span>
               </p>
-              <p className="service-type">
+              {/* <p className="service-type">
                 <type>진리와 자유</type>
                 <span>격주 수요일 오후 7시30분</span>
-              </p>
+              </p> */}
               <p className="service-type">
                 <type>금요지성소 기도회</type>
                 <span>매주 오후 8시</span>
@@ -132,13 +132,14 @@ export default class Mission extends Component {
         <div className="this-month-container">
           <div data-aos="fade-down">
             <div className="this-month-title">
-              <p>이번달 암송구절</p>
+              <p>2025년 말씀주제</p>
             </div>
             <div className="this-month-scripture">
-              <b>요한복음 14장 34-35절</b>
+              <b>스가랴 4장 6절</b>
               <p>
-                새 계명을 너희에게 주노니 서로 사랑하라 내가 너희를 사랑한 것 같이 너희도 서로 사랑하라 너희가 서로 사랑하면 이로써 모든 사람이 너희가
-                내 제자인 줄 알리라
+                그가 내게 대답하여 이르되 여호와께서 스룹바벨에게 하신 말씀이
+                이러하니라 만군의 여호와께서 말씀하시되 이는 힘으로 되지
+                아니하며 능력으로 되지 아니하고 오직 나의 영으로 되느니라
               </p>
             </div>
             {/* <div className="this-month-hymn">

@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "../styles/sermonPopup.css";
 
-
 export default class SermonVideo extends Component {
   state = {
     showVideoAttachment: false,
@@ -252,6 +251,9 @@ export default class SermonVideo extends Component {
       20241201: "WslUQc5VjnQ",
       20241208: "CRPGqZvYEp4",
       20241215: "MwECCO6MGP8",
+      20241222: "zbrzaEFS-Po",
+      20241229: "DZVDs9LLWtQ",
+      20250105: "CzvYGxJPeK8",
     };
 
     var date = this.props.clickedDate;

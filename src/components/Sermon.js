@@ -4,6 +4,7 @@ import SermonVideo from "./SermonVideo";
 import SermonAudio from "./SermonAudio";
 import SermonConfirmPopup from "./SermonConfirmPopup";
 import Sermon2024 from "./Sermon2024";
+import Sermon2025 from "./Sermon2025";
 
 export default class Sermon extends Component {
   state = {
@@ -14,7 +15,7 @@ export default class Sermon extends Component {
     videoAttachmentExist: false,
     videoAttachmentUrl: "",
     confirmState: "",
-    selectedYear: "2024",
+    selectedYear: "2025",
   };
 
   setDate = (date) => {
@@ -72,7 +73,8 @@ export default class Sermon extends Component {
   };
 
   render() {
-    const imagePath = (date) => `https://j-grace.s3-us-west-2.amazonaws.com/sermonImages/${date}.png`;
+    const imagePath = (date) =>
+      `https://j-grace.s3-us-west-2.amazonaws.com/sermonImages/${date}.png`;
 
     return (
       <div>
@@ -91,6 +93,17 @@ export default class Sermon extends Component {
           <div className="sermon-header-container">
             <h1>설교말씀</h1>
             <div className="sermon-tab-year-container">
+              <span
+                className="sermon-tab-year"
+                onClick={() => this.setSelectedYear("2025")}
+                style={
+                  this.state.selectedYear === "2025"
+                    ? { borderBottom: "5px solid #E67E22" }
+                    : {}
+                }
+              >
+                2025
+              </span>
               <span
                 className="sermon-tab-year"
                 onClick={() => this.setSelectedYear("2024")}
@@ -163,6 +176,7 @@ export default class Sermon extends Component {
           <table className="sermon-lists">
             <tbody>
               <tr>
+                {this.state.selectedYear === "2025" && <Sermon2025 />}
                 {this.state.selectedYear === "2024" && <Sermon2024 />}
                 {this.state.selectedYear === "2023" && (
                   <>
@@ -817,8 +831,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220731")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -827,8 +840,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220703")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -837,8 +849,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220626")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -847,8 +858,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220619")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -857,8 +867,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220612")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -867,8 +876,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220605")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -877,8 +885,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220529")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -887,8 +894,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220522")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -897,8 +903,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220515")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -907,8 +912,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220508")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -917,8 +921,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220501")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -927,8 +930,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220424")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -937,8 +939,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220417")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -947,8 +948,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220410")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -957,8 +957,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220403")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -967,8 +966,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220327")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -977,8 +975,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220320")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -987,8 +984,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220313")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -997,8 +993,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220306")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1007,8 +1002,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220227")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1017,8 +1011,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220220")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1027,8 +1020,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220213")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1037,8 +1029,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220206")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1047,8 +1038,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220130")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1057,8 +1047,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220123")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1067,8 +1056,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220116")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1077,8 +1065,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220109")})`,
                       }}
-                    >
-                    </th>
+                    ></th>
                     <th
                       onClick={() => {
                         this.confirmVideoClicked();
@@ -1087,9 +1074,7 @@ export default class Sermon extends Component {
                       style={{
                         backgroundImage: `url(${imagePath("20220102")})`,
                       }}
-                    >
-                    </th>
-
+                    ></th>
                   </>
                 )}
                 {this.state.selectedYear === "2021" && (
