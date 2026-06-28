@@ -31,7 +31,7 @@ export default class RespNav extends Component {
           <a
             onClick={this.props.respNavMenuClicked}
             className="resp-nav-link"
-            href="/#/sermon"
+            href="https://www.youtube.com/@j-grace59/streams"
           >
             주일 설교말씀
           </a>

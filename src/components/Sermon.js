@@ -5,6 +5,7 @@ import SermonAudio from "./SermonAudio";
 import SermonConfirmPopup from "./SermonConfirmPopup";
 import Sermon2024 from "./Sermon2024";
 import Sermon2025 from "./Sermon2025";
+import Sermon2026 from "./Sermon2026";
 
 export default class Sermon extends Component {
   state = {
@@ -15,7 +16,7 @@ export default class Sermon extends Component {
     videoAttachmentExist: false,
     videoAttachmentUrl: "",
     confirmState: "",
-    selectedYear: "2025",
+    selectedYear: "2026",
   };
 
   setDate = (date) => {
@@ -93,6 +94,17 @@ export default class Sermon extends Component {
           <div className="sermon-header-container">
             <h1>설교말씀</h1>
             <div className="sermon-tab-year-container">
+              <span
+                className="sermon-tab-year"
+                onClick={() => this.setSelectedYear("2026")}
+                style={
+                  this.state.selectedYear === "2026"
+                    ? { borderBottom: "5px solid #E67E22" }
+                    : {}
+                }
+              >
+                2026
+              </span>
               <span
                 className="sermon-tab-year"
                 onClick={() => this.setSelectedYear("2025")}
@@ -176,6 +188,7 @@ export default class Sermon extends Component {
           <table className="sermon-lists">
             <tbody>
               <tr>
+                {this.state.selectedYear === "2026" && <Sermon2026 />}
                 {this.state.selectedYear === "2025" && <Sermon2025 />}
                 {this.state.selectedYear === "2024" && <Sermon2024 />}
                 {this.state.selectedYear === "2023" && (

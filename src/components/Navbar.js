@@ -119,7 +119,7 @@ export default class NavBar extends Component {
               onClick={this.navMenuClicked}
               style={{ color: this.state.color }}
               className="nav-link"
-              href="/#/sermon"
+              href="https://www.youtube.com/@j-grace59/streams"
             >
               주일 설교말씀
             </a>

@@ -59,20 +59,26 @@ export default class Mission extends Component {
           <div className="service-container">
             <div className="service-time-container" data-aos="fade-down">
               <p className="service-type">
-                <type>한국어 정창년 예배</type>
-                <span>매주 일요일 오전 10시</span>
+                <type>현장새벽기도</type>
+                <span>Tues-Fri 6AM</span>
               </p>
               <p className="service-type">
-                <type>영어권 주일 예배</type>
-                <span>매주 일요일 오후 12시</span>
+                <type>한국어 예배</type>
+                <span>Sunday 11:30AM</span>
               </p>
+              <p className="service-type">
+                <type>영어권(EM) 예배</type>
+                <span>Sunday 10AM</span>
+              </p>
+
+
               {/* <p className="service-type">
                 <type>진리와 자유</type>
                 <span>격주 수요일 오후 7시30분</span>
               </p> */}
               <p className="service-type">
                 <type>금요지성소 기도회</type>
-                <span>매주 오후 8시</span>
+                <span>Friday 7PM</span>
               </p>
             </div>
             <div className="main-page-location-container" data-aos="fade-down">
@@ -107,8 +113,8 @@ export default class Mission extends Component {
                     <b>email</b>
                   </li>
                   <li>
-                    <a href="mailto:j-gcc.info@j-grace.org">
-                      j-gcc.info@j-grace.org
+                    <a href="mailto:jgrace.info@gmail.com">
+                      jgrace.info@gmail.com
                     </a>
                   </li>
                 </ul>
@@ -132,7 +138,7 @@ export default class Mission extends Component {
         <div className="this-month-container">
           <div data-aos="fade-down">
             <div className="this-month-title">
-              <p>2025년 말씀주제</p>
+              <p>2026년 말씀주제</p>
             </div>
             <div className="this-month-scripture">
               <b>스가랴 4장 6절</b>

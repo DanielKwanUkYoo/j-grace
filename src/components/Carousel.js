@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component, useEffect } from "react";
 import "../styles/carousel.css";
 import Pdf from "../pdf/2020Mission.pdf";
 import Slider from "react-slick";
@@ -9,8 +9,27 @@ export default class Carousel extends Component {
     carouselPopup: false,
     pdfPopup: false,
     sermonAudioClicked: false,
+    banner: {
+      "date": "",
+      "seriesTitle": "",
+      "title": "",
+      "chapters": "",
+      "messenger": ""
+    }
   };
 
+  async componentDidMount() {
+    try {
+      const response = await fetch(
+        "https://j-grace.s3.us-west-2.amazonaws.com/banner.json"
+      );
+      const banner = await response.json();
+
+      this.setState({ banner });
+    } catch (error) {
+      console.error("Failed to fetch banner:", error);
+    }
+  }
   popupClose = () => {
     this.setState({ carouselPopup: false });
   };
@@ -55,25 +74,26 @@ export default class Carousel extends Component {
           <div className="carousel-two-image">
             <div className="carousel-two">
               <div className="carousel-two-title">
-                <p className="carousel-two-title-top">1/5 주일예배</p>
+                <p className="carousel-two-title-top">{this.state.banner.date} 주일예배</p>
                 <p>
                   <span style={{ fontSize: "18px" }}>
-                    오직 하나님의 영으로 회복되는 성전
+                    {this.state.banner.seriesTitle}
+
                   </span>
                   <br />
-                  여호와께 돌아오라
+                  {this.state.banner.title}
                 </p>
               </div>
               <div className="carousel-two-subtitle">
-                <span>스가랴 1장 1-6절</span>
+                <span>{this.state.banner.chapters}</span>
                 <br />
                 <span
                   style={{ borderLeft: "4px solid #fff", paddingLeft: "0.5em" }}
                 >
-                  송관빈 목사
+                  {this.state.banner.messenger}
                 </span>
                 <br />
-                <a href="/#/sermon">예배영상 보기/듣기</a>
+                <a href="https://www.youtube.com/@j-grace59/streams">예배영상 보기/듣기</a>
               </div>
             </div>
           </div>
